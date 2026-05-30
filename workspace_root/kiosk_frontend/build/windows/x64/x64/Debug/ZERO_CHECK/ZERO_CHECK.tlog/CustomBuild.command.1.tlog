@@ -1,0 +1,10 @@
+^C:\SRC\KIOSK_APP\WORKSPACE_ROOT\KIOSK_FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\E06CDDDBD941D662A17F90F3B24714F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/src/kiosk_app/workspace_root/kiosk_frontend/windows -BC:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/kiosk_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

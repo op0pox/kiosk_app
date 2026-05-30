@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\src\kiosk_app\workspace_root\kiosk_frontend\build\windows\x64\CMakeFiles\9a70999bbc66aacb5779aa1b87a34c52\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\src\kiosk_app\workspace_root\kiosk_frontend\build\windows\x64\CMakeFiles\2c0982c6e3e0b49507d29a22ad1d1ef0\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\src\kiosk_app\workspace_root\kiosk_frontend\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\src\kiosk_app\workspace_root\kiosk_frontend\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5B042E47-9ECA-3CBB-9763-CD26AB5778BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

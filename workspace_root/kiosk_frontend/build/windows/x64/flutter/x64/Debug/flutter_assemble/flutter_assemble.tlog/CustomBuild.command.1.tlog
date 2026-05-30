@@ -1,0 +1,28 @@
+^C:\SRC\KIOSK_APP\WORKSPACE_ROOT\KIOSK_FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\9A70999BBC66AACB5779AA1B87A34C52\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=C:\src\kiosk_app\workspace_root\kiosk_frontend FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=C:\src\kiosk_app\workspace_root\kiosk_frontend\windows\flutter\ephemeral PROJECT_DIR=C:\src\kiosk_app\workspace_root\kiosk_frontend FLUTTER_TARGET=C:\src\kiosk_app\workspace_root\kiosk_frontend\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\src\kiosk_app\workspace_root\kiosk_frontend\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\SRC\KIOSK_APP\WORKSPACE_ROOT\KIOSK_FRONTEND\BUILD\WINDOWS\X64\CMAKEFILES\2C0982C6E3E0B49507D29A22AD1D1EF0\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\SRC\KIOSK_APP\WORKSPACE_ROOT\KIOSK_FRONTEND\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/src/kiosk_app/workspace_root/kiosk_frontend/windows -BC:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64 --check-stamp-file C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

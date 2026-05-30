@@ -1,0 +1,14 @@
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/window_size_plugin.dll
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

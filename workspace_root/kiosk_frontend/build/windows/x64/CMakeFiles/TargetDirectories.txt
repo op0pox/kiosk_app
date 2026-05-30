@@ -1,0 +1,13 @@
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/CMakeFiles/kiosk_app.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/plugins/window_size/CMakeFiles/window_size_plugin.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/plugins/window_size/CMakeFiles/INSTALL.dir
+C:/src/kiosk_app/workspace_root/kiosk_frontend/build/windows/x64/plugins/window_size/CMakeFiles/ALL_BUILD.dir
